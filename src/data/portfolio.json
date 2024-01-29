@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/Chatbot.png", 
+            "title": "StudySmartBot", 
+            "description": "ReactJS, NodeJS, Web Sockets", 
+            "url": "https://studysmartbot.netlify.app/"
+        }, 
+        {
+            "cover": "/portfolio/Coursework.jpeg", 
+            "title": "Coding Course Work", 
+            "description": "Python, Java", 
+            "url": "https://github.com/maxxcraig/CS-150-Projects"
+        }
+    ]
+}
