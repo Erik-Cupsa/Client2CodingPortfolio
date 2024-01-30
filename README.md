@@ -1,8 +1,10 @@
-# Max Craig's Freelance Coding Portfolio
+# Wasif Somji's Freelance Coding Portfolio
 
-Welcome to Max Craig's freelance coding portfolio! This web application is built using ReactJs with Sass styling, showcasing Max's skills, projects, and achievements in the field of web development. You can check it out [here!](https://maxcraig-portfolio.netlify.app/)
+Welcome to Wasif Somji's freelance coding portfolio! This web application is built using ReactJs with Sass styling, showcasing Wasif's skills, projects, and achievements in the field of web development. You can check it out [here!](https://wasifs-portfolio.netlify.app/)
 
-<img width="1426" alt="Screenshot 2024-01-15 at 5 17 47 PM" src="https://github.com/Erik-Cupsa/ClientCodingPortfolio/assets/86483911/a3da3213-8204-45e3-9a0b-50ea159e7fab">
+<img width="1395" alt="Screenshot 2024-01-30 at 3 24 02 PM" src="https://github.com/Erik-Cupsa/Client2CodingPortfolio/assets/86483911/bbbd67fe-7259-47da-97c7-66b77c0f4b2c">
+
+
 
 
 ## Table of Contents
@@ -17,17 +19,17 @@ Welcome to Max Craig's freelance coding portfolio! This web application is built
 
 ## Introduction
 
-This portfolio is a personalized space for Max Craig to highlight his expertise, share his projects, and provide information about his coding journey. The application offers an interactive and user-friendly experience for visitors to explore Max's work and get in touch with him.
+This portfolio is a personalized space for Wasif Somji to highlight his expertise, share his projects, and provide information about his coding journey. The application offers an interactive and user-friendly experience for visitors to explore Wasif's work and get in touch with him.
 
 ## Features
 
 - **Responsive Design:** The portfolio is designed to be accessible and visually appealing across various devices and screen sizes.
 
-- **Project Showcase:** Max can display his coding projects with detailed information, including technologies used, project descriptions, and live demo links.
+- **Project Showcase:** Wasif can display his coding projects with detailed information, including technologies used, project descriptions, and live demo links.
 
-- **Skills Section:** A dedicated section to showcase Max's skills and proficiency in different programming languages, frameworks, and tools.
+- **Skills Section:** A dedicated section to showcase Wasif's skills and proficiency in different programming languages, frameworks, and tools.
 
-- **Contact Form:** An interactive contact form allowing visitors to reach out to Max directly.
+- **Contact Form:** An interactive contact form allowing visitors to reach out to Wasif directly.
 
 ## Installation
 
@@ -66,4 +68,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for checking out Max Craig's Freelance Coding Portfolio! If you have any questions or feedback, feel free to reach out.
+Thank you for checking out Wasif Somji's Freelance Coding Portfolio! If you have any questions or feedback, feel free to reach out.
