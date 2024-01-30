@@ -35,9 +35,9 @@ This portfolio is a personalized space for Wasif Somji to highlight his expertis
 
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git](https://github.com/Erik-Cupsa/Client2CodingPortfolio.git`
 
-2. Navigate to the project directory: `cd your-portfolio`
+2. Navigate to the project directory: `cd Client2CodingPortfolio`
 
 3. Install dependencies: `npm install`
 
