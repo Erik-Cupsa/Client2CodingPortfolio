@@ -12,7 +12,7 @@ import Dev from './components/About/Dev';
 
 function App() {
   useEffect(() => {
-    document.title = 'Max\'s Portfolio';
+    document.title = 'Wasif\'s Portfolio';
   }, []);
 
   return (

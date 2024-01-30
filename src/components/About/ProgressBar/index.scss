@@ -32,6 +32,25 @@
     background-color: #61DAFB;
   }
 
+  .junit-progress .progress {
+    background-color: #25AAB7; 
+  }
+  .c-progress .progress {
+    background-color: #555555; 
+}
+
+.arm7-assembly-progress .progress {
+    background-color: #F7941E; 
+}
+
+.gradle-progress .progress {
+    background-color: #02303A; 
+  }
+
+.cucumber-progress .progress {
+    background-color: #5B8C5A; 
+  }
+
   .node-progress .progress {
     background-color: #68A063;
   }

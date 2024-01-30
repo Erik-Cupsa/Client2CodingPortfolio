@@ -2,7 +2,7 @@ import './index.scss'
 import { Link, NavLink } from "react-router-dom"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faEnvelope, faSuitcase, faFolderOpen, faBars, faClose } from '@fortawesome/free-solid-svg-icons'
-import LogoM from '../../assets/images/M.png'
+import LogoW from '../../assets/images/W.png'
 import LogoSubtitle from '../../assets/images/sub-logo.png'
 import { faGithub, faLinkedin, faTelegram} from '@fortawesome/free-brands-svg-icons'
 import { useState } from 'react'
@@ -12,7 +12,7 @@ const Sidebar = () => {
     return(
         <div className = 'nav-bar'> 
             <Link className = "logo" to="/"> 
-                <img src = {LogoM} alt="logo" />
+                <img src = {LogoW} alt="logo" />
                 <img className="sub-logo" src = {LogoSubtitle} alt="max" />
             </Link>
             <nav className={showNav ? 'mobile-show' : ""}>
@@ -35,17 +35,17 @@ const Sidebar = () => {
             </nav>
             <ul>
                 <li>
-                    <a target = "_blank" rel = "noreferrer" href = "https://www.linkedin.com/in/max-craig-7680872a4/">
+                    <a target = "_blank" rel = "noreferrer" href = "https://www.linkedin.com/in/wasifsomji/">
                         <FontAwesomeIcon icon={faLinkedin} color = "#4d4d4e" />
                     </a>
                 </li>
                 <li>
-                    <a target = "_blank" rel = "noreferrer" href = "https://github.com/maxxcraig">
+                    <a target = "_blank" rel = "noreferrer" href = "https://github.com/wasifsomji">
                         <FontAwesomeIcon icon={faGithub} color = "#4d4d4e" />
                     </a>
                 </li>
                 <li>
-                    <a target = "_blank" rel = "noreferrer" href = "mailto:max8alton@gmail.com">
+                    <a target = "_blank" rel = "noreferrer" href = "mailto:wasif.somji@mail.mcgill.ca">
                         <FontAwesomeIcon icon={faTelegram} color = "#4d4d4e" />
                     </a>
                 </li>

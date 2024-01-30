@@ -1,16 +1,22 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/Chatbot.png", 
-            "title": "StudySmartBot", 
-            "description": "ReactJS, NodeJS, Web Sockets", 
-            "url": "https://studysmartbot.netlify.app/"
+            "cover": "/portfolio/NBAPredictor.png", 
+            "title": "NBA Game Predictor", 
+            "description": "Python, Sci-kit Learn, Pandas", 
+            "url": "https://github.com/wasifsomji/NBA-Game-Predictor"
+        }, 
+        {
+            "cover": "/portfolio/Hotel.png", 
+            "title": "Hotel Management System", 
+            "description": "SpringBoot, PostgreSQL, Vue.JS", 
+            "url": "https://github.com/wasifsomji/ECSE-321-Final-Project"
         }, 
         {
             "cover": "/portfolio/Coursework.jpeg", 
             "title": "Coding Course Work", 
             "description": "Python, Java", 
-            "url": "https://github.com/maxxcraig/CS-150-Projects"
+            "url": "https://github.com/wasifsomji"
         }
     ]
 }

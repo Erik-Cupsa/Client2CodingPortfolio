@@ -1,11 +1,11 @@
-import LogoM from '../../../assets/images/MaxBackground.png';
+import LogoWasif from '../../../assets/images/WasifBackground.png';
 import './index.scss';
 
 const Logo = () => {
 
   return (
     <div className="logo-container">
-      <img className="solid-logo animate" src={LogoM} alt="JavaScript, Developer" />
+      <img className="solid-logo animate" src={LogoWasif} alt="JavaScript, Developer" />
     </div>
   );
 };

@@ -4,36 +4,26 @@ import './index.scss';
 const Timeline = () => {
   const [events, setEvents] = useState([
     {
-      date: 'Jun 2022 - May 2023',
-      title: "Kadama Tutoring",
+      date: "Oct 2023 - Present",
+      title: "Blockchain at McGill | Software Developer",
       description: [
-        "Dedicated and results-driven tutor with a proven track record of success in guiding students through challenging subjects.",
-        "Specialized in providing comprehensive support in <b>geometry, trigonometry, math analysis, calculus 1, physics, intro to computer science, and SAT preparation</b>.",
-        "Over the course of a year, successfully assisted more than <b>30 students</b> in understanding and mastering these subjects, fostering a deep appreciation for learning and academic achievement.",
+        "Actively engages in a comprehensive weekly Solidity coding bootcamp, utilizing Remix IDE to develop and refine smart contract programming skills.",
+        "Participates in hackathons and works collaboratively on blockchain infrastructure projects."
       ],
-      "expanded": false
+      expanded: false
     },
     {
-      date: "Aug 2021 - May 2022",
-      title: "NASA HUNCH",
+      date: "Jun 2023 - Aug 2023",
+      title: "Pacific Reach | IT Analyst Intern",
       description: [
-        "Spearheaded the development of <b>magnetic boots</b> by leveraging expertise in manipulating stepper motors and electromagnets using <b>Arduino</b> and <b>C++</b>.",
-        "Led the design and implementation of a fully automated system, showcasing technical proficiency and attention to detail.",
-        "Achieved notable recognition by emerging as one of the top four teams out of 800 participating groups in the <b>magnetic boots challenge</b>."
+        "Efficiently resolved a backlog of <b>500+</b> Helpdesk tickets, leveraging <b>Azure Active Directory</b> and implementing technology upgrades at over <b>20</b> national sites, enhancing system efficiency and user experience.",
+        "Collaborated with senior analysts to troubleshoot and configure an extensive range of devices, from high-end desktops to complex mobile platforms, demonstrating a high level of technical agility.",
+        "Designed and implemented a <b>PowerShell script</b> to automate the tasks of adding, removing, and editing permissions on users saved in <b>Active Directory</b>.",
+        "Mastered practical skills in motherboard logic and hardware troubleshooting, excelling in component replacement and significantly cutting costs in technology upgrades and replacements."
       ],
-      "expanded": false
-    }, 
-    {
-      date: "Aug 2021 - May 2023",
-      title: "Hack Club",
-      description: [
-        "Pioneering leader in the establishment and leadership of the first Computer Science Club at <b>Chatfield Senior High School</b>, operating under the auspices of the <b>Hack Club</b> organization.",
-        "Initiated and cultivated a vibrant community, guiding a diverse group of over <b>20 students</b> in their introduction to coding.",
-        "Delivered engaging sessions to teach foundational coding concepts in <b>Java</b>, fostering a passion for computer science among club members.",
-        "Demonstrated strong leadership skills by leading a subgroup of <b>five students</b> to participate in a <b>hackathon</b>, where the team showcased their coding skills and problem-solving capabilities."
-      ],
-      "expanded": false
+      expanded: false
     }
+    
     
     
   ]);
