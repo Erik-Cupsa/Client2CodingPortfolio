@@ -1,6 +1,6 @@
 # Wasif Somji's Freelance Coding Portfolio
 
-Welcome to Wasif Somji's freelance coding portfolio! This web application is built using ReactJs with Sass styling, showcasing Wasif's skills, projects, and achievements in the field of web development. You can check it out [here!](https://wasifs-portfolio.netlify.app/)
+Welcome to Wasif Somji's freelance coding portfolio! This web application is built using ReactJs with Sass styling, showcasing Wasif's skills, projects, and achievements in the field of web development. You can check it out [here!](https://clientwasif-portfolio.netlify.app/)
 
 <img width="1395" alt="Screenshot 2024-01-30 at 3 24 02 PM" src="https://github.com/Erik-Cupsa/Client2CodingPortfolio/assets/86483911/bbbd67fe-7259-47da-97c7-66b77c0f4b2c">
 
